@@ -15,9 +15,9 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveislearning&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shally3003&layout=compact&theme=radical)
 
 ## 🔥 My GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=loveislearning&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shally3003&theme=dark)
 
 </div>
