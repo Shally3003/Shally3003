@@ -15,9 +15,12 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shally3003&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loveisShe&layout=compact&theme=tokyonight)
+
+## 🧠 LeetCode Stats
+![LeetCode Card](https://leetcard.jacoblin.cool/Mewwasperfect?theme=dark&border_radius=0)
 
 ## 🔥 My GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shally3003&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=loveisShe&theme=dark)
 
 </div>
